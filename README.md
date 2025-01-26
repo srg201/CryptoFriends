@@ -36,10 +36,6 @@ CryptoFriends is a sophisticated cryptocurrency investment platform designed for
 - HTML5
 - CSS3 (with CSS Grid and Flexbox)
 - JavaScript (ES6+)
-- Three.js for 3D effects
-- Particles.js for background effects
-- Web3.js for cryptocurrency integration
-- GSAP for animations
 
 ## 🎨 Design Features
 
